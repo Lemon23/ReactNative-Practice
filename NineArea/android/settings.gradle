@@ -1,0 +1,3 @@
+rootProject.name = 'NineArea'
+
+include ':app'
